@@ -1,0 +1,7 @@
+{
+  "name": "Mission Control 2026 — Lynx 4 & Cloud Infrastructure Studio",
+  "description": "Production-grade 2026 telemetry and architectural suite featuring Lynx 4, ReactLynx, Bun/Elysia, Rust Tokio, BEAM/OTP, and GraalVM cross-platform simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
